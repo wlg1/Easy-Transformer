@@ -2,7 +2,7 @@ This repository contains the code for all experiments in the paper "Interpretabi
 
 <img src="https://i.imgur.com/iptFVBc.png">
 
-This is intended as a one-time code drop. <b>The authors recommend those interested in mechanistic interpretability using the <a href="https://github.com/neelnanda-io/TransformerLens">Easy Transformer</a> library</b>. Contact arthur@rdwrs.com or open an issue or PR for issues with this repository.
+This is intended as a one-time code drop. <b>The authors recommend those interested in mechanistic interpretability using the <a href="https://github.com/neelnanda-io/Easy-Transformer">Easy Transformer</a> library</b>. Contact arthurconmy@gmail.com or comment on <a href="https://github.com/redwoodresearch/Easy-Transformer/pull/8">this</a> PR (sadly issues don't work for forks) for proposed changes.
 
 # Quick Start
 

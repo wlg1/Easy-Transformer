@@ -1,3 +1,8 @@
+#%%
+"""
+This file begins implementation of the circuit discovery algorithm from https://arthurconmy.github.io/automatic_circuit_discovery/
+"""
+
 # %%
 from typing import List, Tuple, Dict, Union, Optional, Callable, Any
 from time import ctime

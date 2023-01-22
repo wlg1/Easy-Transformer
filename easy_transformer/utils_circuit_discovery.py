@@ -1,3 +1,7 @@
+"""
+This file begins implementation of the circuit discovery algorithm from https://arthurconmy.github.io/automatic_circuit_discovery/
+"""
+
 from copy import deepcopy
 from functools import partial
 import numpy as np

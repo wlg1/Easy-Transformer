@@ -206,14 +206,14 @@ RELEVANT_TOKENS = {}
 for head in CIRCUIT["name mover"] + CIRCUIT["negative"] + CIRCUIT["s2 inhibition"]:
     RELEVANT_TOKENS[head] = ["end"]
 
-for head in CIRCUIT["induction"]:
-    RELEVANT_TOKENS[head] = ["S2"]
+# for head in CIRCUIT["induction"]:
+#     RELEVANT_TOKENS[head] = ["S2"]
 
-for head in CIRCUIT["duplicate token"]:
-    RELEVANT_TOKENS[head] = ["S2"]
+# for head in CIRCUIT["duplicate token"]:
+#     RELEVANT_TOKENS[head] = ["S2"]
 
-for head in CIRCUIT["previous token"]:
-    RELEVANT_TOKENS[head] = ["S+1"]
+# for head in CIRCUIT["previous token"]:
+#     RELEVANT_TOKENS[head] = ["S+1"]
 
 ALL_NODES = []
 for h in RELEVANT_TOKENS:
